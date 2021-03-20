@@ -3,8 +3,7 @@ Objectives: 1. Attend to customers in a hurry with prebooking options and parkin
 
 Implementation: 1. Mobile application 2. Billing Software
 
-Application: 1. A mobile app to monitor amenities. 2. An in-app notification is sent to the app when the user is in its vicinity. 3. A credit based system to encourage purc
-ourage purchase from Cube Stops.
+Application: 1. A mobile app to monitor amenities. 2. An in-app notification is sent to the app when the user is in its vicinity. 3. A credit based system to encourage purchase from Cube Stops.
 
 Final Result: Create a Cube nationwide ecosystem for customers.
 
